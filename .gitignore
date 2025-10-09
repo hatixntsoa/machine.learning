@@ -1,3 +1,13 @@
+# Ignore python virtual environment
+**/[Bb]in
+**/[Ii]nclude
+**/[Ll]ib
+**/[Ll]ib64
+**/[Ll]ocal
+**/[Ss]cripts
+**/[Ss]hare
+**/pyvenv.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
